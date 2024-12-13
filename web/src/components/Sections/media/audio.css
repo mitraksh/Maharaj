@@ -1,0 +1,39 @@
+.album_art{
+    max-width: 399.99 px;
+    max-height: 399.99;
+    width: 399.99 px;
+    height: 399.99 px;
+    background: 50% 50% no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+.audioPlayer{
+    border-radius: 1.5%;
+    color: black;
+    background-color: #E0E1E2;
+    border: #595959;
+}
+.rhap_progress-bar rhap_progress-bar-show-download {
+    color: black;
+}
+.rhap_progress-indicator{
+    background-color: black;
+}
+.rhap_progress-filled{
+    background-color: rgb(38, 38, 38);
+}
+.rhap_time {
+    color: black;
+    font-weight: 300;
+}
+.rhap_progress-bar-show-download{
+    background-color: black;
+}
+.rhap_download-progress{
+    background-color: rgb(118, 118, 118);
+}
+.pagination_cell{
+  
+}
